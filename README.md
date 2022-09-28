@@ -1,4 +1,4 @@
-# N20-Leg-Actuator
+# N20 Servo Module
 
 I made a custom servo motor using a cheap N20 DC motor and an angle sensor.
 
